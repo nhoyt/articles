@@ -24,12 +24,12 @@ widgets are one tab stop in the document’s tab sequence
 navigation menus do not need to be widgets, being composed of (and only of) native HTML interactive elements
 The quoted warning above ends with a recommendation: use the Disclosure Pattern. In the following subsections, we will look more deeply into this design pattern and how it can be used for navigation menus.
 
-## Disclosure Pattern
+### Disclosure Pattern
 
 Paragraph
 
-## Disclosure Navigation Menu
+### Disclosure Navigation Menu
 Paragraph
 
-## Keyboard Enhancements
+### Keyboard Enhancements
 Paragraph
