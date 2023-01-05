@@ -8,7 +8,7 @@ The APG includes the pattern entitled Menu | Menubar, and the first section of i
 
 At the end of this opening section there is a link to the “Navigation Menubar Example.” Near the beginning of this example, you encounter the following warning:
 
-CAUTION! Before considering use of the ARIA menubar pattern for site navigation, it is important to understand: The menubar pattern requires complex functionality that is unnecessary for typical site navigation that is styled to look like a menubar with expandable sections or fly outs. A pattern more suited for typical site navigation with expandable groups of links is the disclosure pattern. For an example, see Example Disclosure Navigation Menu.
+> CAUTION! Before considering use of the ARIA menubar pattern for site navigation, it is important to understand: The menubar pattern requires complex functionality that is unnecessary for typical site navigation that is styled to look like a menubar with expandable sections or fly outs. A pattern more suited for typical site navigation with expandable groups of links is the disclosure pattern. For an example, see Example Disclosure Navigation Menu.
 
 Why the warning? Am I not supposed to use the Menu | Menubar pattern for my navigation menus? Let’s try and break this down.
 
