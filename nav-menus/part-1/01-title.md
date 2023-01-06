@@ -1,4 +1,3 @@
 # Building Accessible Navigation Menus
 
-by M. Nicholas Hoyt
-January 2023
+by M. Nicholas Hoyt, Jan. 2023
