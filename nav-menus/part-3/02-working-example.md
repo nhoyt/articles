@@ -1,3 +1,0 @@
-## Working Example
-
-Paragraph

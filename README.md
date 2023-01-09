@@ -1,2 +1,3 @@
 # articles
-Articles intended for publication as persuasive essays
+
+Articles intended for publication
