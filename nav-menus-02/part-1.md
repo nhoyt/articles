@@ -4,6 +4,35 @@ by M. Nicholas Hoyt, Jan. 2023
 
 ## Introduction
 
+You've been tasked with designing and implementing a navigation menu system for your employer's website. What features should it have? What are the design patterns you can use as guidance? How can you make it as accessible as possible for users with disabilities?
+
+This article will answer those questions along with a few others:
+* What are the basic HTML building blocks to use for navigation menus?
+* How can I use CSS to simplify my HTML markup and JavaScript code?
+* Should I implement the 'open on hover' behavior for menu buttons?
+* Which ARIA APG design patterns are recommended for navigation menus, and which are not?
+
+
+
+
+
+Software menus have existed as user interface components for quite some time and their behaviors (i.e. the features and affordances offered to users) have varied depending on the different contexts in which they have been implemented.
+
+This article will explore the various design patterns upon which different kinds of menus are based, with the ultimate goal of clarifying why some of these patterns should be used, and other patterns avoided, in building the particular kind of menu known as the website navigation menu.
+
+
+
+
+[Begin Move]
+To understand how to build accessible navigation menus, it is helpful to delve into this legacy and look at the design patterns associated with diffent kinds of menus.
+
+Predating the web, application menus evolved into composite UI components, which included sophisticated focus management and support for first-character navigation. Importantly, the way that application menu widgets handle keyboard navigation and focus is non-idiomatic compared with how web pages typically work.
+
+Web pages, written in HTML, allow navigating through interactive elements with the tab and shift-tab keys. The most common HTML interactive elements are links (‘a’ elements) and buttons (‘button’ element or an element with role=“button”).
+[End Move]
+
+
+
 The ARIA Authoring Practices Guide (APG) maintains that navigation menus should be built using the Disclosure (Show/Hide) pattern, and warns against using the Menu | Menubar pattern for such purposes. In this article, we will examine the APG Example Disclosure Navigation Menu and the associated Disclosure design pattern to see how these can be utilized as the basis for creating robust and arbitrarily complex navigation menus. We will also take a closer look at why you should not base navigation menus on the APG Menu | Menubar design pattern.
 
 This article will take you, step-by-step, through the Example Disclosure Navigation Menu and try to fill in gaps where it may not be obvious why certain choices were made. The main objective of this article is to clarify the why, what, and how of building accessible navigation menus using the APG Disclosure pattern, and to go a few steps beyond the basic implementation that the APG Example Disclosure Navigation Menu provides.
