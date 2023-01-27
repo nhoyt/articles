@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-FOLDERS=(introduction part-1 part-2 part-3 part-4 conclusion)
+FOLDERS=(introduction getting-started menu-design-patterns disclosure-nav-menu conclusion)
 
 for folder in ${FOLDERS[@]} ; do
   #echo $folder

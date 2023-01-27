@@ -124,14 +124,6 @@ Paragraph
 ### Keyboard Enhancements
 Paragraph
 
-## Implementation Details
-
-Paragraph
-
-## Working Example
-
-Paragraph
-
 ## Conclusions
 
 We have examined in detail the user experience of keyboard-only users when interacting with navigation menus, and compared their experience with that of pointing device and touchscreen users. We have also learned how to assess whether the keyboard interaction model is coherent and complete. It is left up to you to judge whether or not these experiences and modalities are relatively similar, or at least as closely related as possible.
