@@ -42,4 +42,3 @@ When the top-level menu button orientation is horizontal and you are within   a 
 When the top-level menu button orientation is vertical and you are within a  submenu, the arrow key functions are reversed: the Left- and Right-Arrow keys move focus to the previous or next menu item, and the Up- and Down-Arrow keys act as shortcut keys to take you directly to the previous or next parent item in the hierarchy.
 
 Without this keyboard enhancement/shortcut, you have to use Tab/Shift-Tab or the Arrow keys sequentially through an entire submenu to get to the next (or previous) top-level menu button, unless you use the Escape key to close the submenu and place focus on its menu button.
-
