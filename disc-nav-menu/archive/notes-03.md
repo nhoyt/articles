@@ -6,7 +6,7 @@
     * Prevalence of 'open on hover' menu buttons that lead to a less than optimal user experience for keyboard-only users.
     * APG design patterns -- the labels are confusing and can be misleading.
     * Not taking into account the keyboard interaction model -- knowing what keyboard-only users and screen reader users expect and want.
-    * General confusion re. ARIA -- using ARIA to ensure that information regarding what types of interactions can be expected (e.g. button role, aria-expanded state, aria-controls property).
+    * General confusion re. ARIA -- How to use ARIA to ensure that information regarding what types of interactions can be expected (e.g. button role, aria-expanded state, aria-controls property) are conveyed to screen reader users.
 2. That we should strive toward 'achieving equity' with respect to the user experience for users of all abilities:
     * Keyboard-only users should not be treated like second class citizens.
     * Likewise, pointing device users should not be treated as if they were the only users we care about.
