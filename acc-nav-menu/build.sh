@@ -14,6 +14,7 @@ FOLDERS=(
 )
 
 for folder in ${FOLDERS[@]} ; do
-  f=`ls -1 $folder/*.md | tail -1`
-  if [ ! -z $f ]; then sed -e '$s/$/\n/' -e '/----/,$ d' $f ; fi
+  for f in ${folder}/doc-*.md ; do
+    if [ ! -z $f ]; then sed -e '$s/$/\n/' -e '/----/,$ d' $f ; fi
+  done
 done > article.md
