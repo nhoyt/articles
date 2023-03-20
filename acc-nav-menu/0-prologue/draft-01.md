@@ -2,12 +2,11 @@
 
 by M. Nicholas Hoyt
 
-As a web developer and user experience designer with an interest in web accessibility, it often surprises me to find examples of navigation menus  that provide a reasonably good user experience for pointing device and touchscreen users, but that do not serve the needs of keyboard-only and screen reader users at anywhere close to the same level. In other words, for keyboard-only and screen reader users, the experience of interacting with these types of menus can be downright frustrating.
+As a web developer and user experience designer with an interest in web accessibility, it often surprises me to find examples of navigation menus  that provide a reasonably good user experience for pointing device and touchscreen users, but do not serve the needs of keyboard-only and screen reader users at anywhere close to the same level. In other words, for keyboard-only and screen reader users, the experience of interacting with these types of menus can be downright frustrating.
 
-This article asks the question: "Why should it be significantly more difficult for some users to interact with a navigation menu than it is for others?" and will argue that 'achieving parity' among the various user experiences is a goal that increases the overall level of accessibility for all users.
+This article asks the question: “Why should it be significantly more difficult for some users to interact with a navigation menu than it is for others?” and will argue that ‘achieving parity’ among the various user experiences for all users is a goal that increases the overall level of accessibility.
 
-
-
+----------------------------------------------------------------
 
 
 This article will attempt to explain how to ‘achieve parity’ by utilizing more accessible design patterns in building navigation menus, which will result in user experiences that are much more nearly the same for all users, regardless of the physical means of interaction being employed.
