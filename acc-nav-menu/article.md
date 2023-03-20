@@ -41,7 +41,15 @@ The information in this article is drawn from the following W3C online resources
 
 ## Getting Started
 
-To begin with, we will take a closer look at the APG Example Disclosure Navigation Menu, which is built with HTML, CSS and JavaScript, and highlight the accessibility features that are implemented within each of these technology areas.
+One of the main goals of this article, as we get further into the technical aspects and details of building navigation menus, is to take a closer look at the APG Example Disclosure Navigation Menu, which is built with HTML, CSS and JavaScript, and highlight the accessibility features that are implemented within each of these technology areas.
+
+Before we get to that point, however, there are a number of related questions and themes that we need to touch upon and provide answers for:
+
+1. What design patterns and their associated behaviors are currently being used in implementing navigation menus?
+
+2. Why is there so much confusion in trying to use the APG to figure out what design patterns should be used for navigation menus?
+
+3. What is the history of menu design patterns and does this explain why some of this confusion exists?
 
 ### Terminology
 
@@ -54,6 +62,8 @@ The following terms relating to navigation menus are used in this article:
 * _Submenu_:  a group of menu items that can be shown or hidden by activating a menu button. These are sometimes referred to as dropdown or fly-out menus.
 
 * _Menu Button_: a menu item that controls the visibility of a submenu. Often menu buttons are distinguished from menu items that are links by including an arrow or chevron icon indicating that it controls the visibility of additional menu items in a submenu.
+
+It is important to note that while this article uses these terms as they are defined above, the ARIA specification and the APG use some of these same terms with very different meanings in relation to menu design patterns that we will not be using. We will explore some of these differences in greater depth in a subsequent section.
 
 ## Disclosure Navigation Menu
 

@@ -9,3 +9,10 @@ The following terms relating to navigation menus are used in this article:
 * _Submenu_:  a group of menu items that can be shown or hidden by activating a menu button. These are sometimes referred to as dropdown or fly-out menus.
 
 * _Menu Button_: a menu item that controls the visibility of a submenu. Often menu buttons are distinguished from menu items that are links by including an arrow or chevron icon indicating that it controls the visibility of additional menu items in a submenu.
+
+It is important to note that while this article uses these terms as they are defined above, the ARIA specification and the APG use some of these same terms with very different meanings in relation to menu design patterns that we will not be using. We will explore some of these differences in greater depth in a subsequent section.
+
+----------------------------------------------------------------
+to describe ARIA roles and design patterns (examples?)
+
+that are derived from the ARIA taxonomy of roles
