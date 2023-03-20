@@ -5,11 +5,11 @@
 #   tail -1    select last line from ls -1 output
 
 FOLDERS=(
-  introduction
-  getting-started
-  menu-design-patterns
-  disclosure-nav-menu
-  conclusion
+  1-introduction
+  2-getting-started
+  3-menu-design-patterns
+  4-disclosure-nav-menu
+  5-conclusion
 )
 
 for folder in ${FOLDERS[@]} ; do
