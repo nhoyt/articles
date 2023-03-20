@@ -1,4 +1,4 @@
-## Getting Started
+## 1. Getting Started
 
 One of the main goals of this article, as we get further into the technical aspects and details of building navigation menus, is to take a closer look at the APG Example Disclosure Navigation Menu, which is built with HTML, CSS and JavaScript, and highlight the accessibility features that are implemented within each of these technology areas.
 

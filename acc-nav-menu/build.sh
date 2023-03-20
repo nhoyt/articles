@@ -12,7 +12,8 @@ FOLDERS=(
   2-section
   3-section
   4-section
-  9-epilogue
+  5-section
+  6-epilogue
 )
 
 for folder in ${FOLDERS[@]} ; do

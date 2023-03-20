@@ -41,7 +41,7 @@ The information in this article is drawn from the following W3C online resources
 
 * [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 
-## Getting Started
+## 1. Getting Started
 
 One of the main goals of this article, as we get further into the technical aspects and details of building navigation menus, is to take a closer look at the APG Example Disclosure Navigation Menu, which is built with HTML, CSS and JavaScript, and highlight the accessibility features that are implemented within each of these technology areas.
 
@@ -67,7 +67,11 @@ The following terms relating to navigation menus are used in this article:
 
 It is important to note that while this article uses these terms as they are defined above, the ARIA specification and the APG use some of these same terms with very different meanings in relation to menu design patterns that we will not be using. We will explore some of these differences in greater depth in a subsequent section.
 
-## Disclosure Navigation Menu
+## 2. Menu Behaviors and User Experience
+
+## 3. APG Menu Design Patterns
+
+## 4. APG Disclosure Navigation Menu
 
 For website navigation menus, the disclosure navigation menu pattern provides what keyboard-only users expect: Tabbing through menu lists and pressing Enter or Spacebar to activate a menu item (i.e., either a menu button that expands or collapses a submenu, or a menu item link that takes you to another page).
 

@@ -6,7 +6,7 @@
 
 * It will explain what navigation menu design patterns and techniques should be used for ‘achieving parity’.
 
-## 1. Introduction
+## Introduction
 
 * Details re. how the article will accomplish its intended goals:
 
@@ -20,7 +20,7 @@
 
 * List of links to online resources and specifications
 
-## 2. Getting Started
+## 1. Getting Started
 
 * What we will cover; related themes
 
@@ -32,7 +32,7 @@
 
 ### Navigation Menu Structure ???
 
-## 3. Menu Behaviors and User Experience
+## 2. Menu Behaviors and User Experience
 
 ### Keyboard-only users
 
@@ -40,7 +40,7 @@
 
 ### Achieving Parity
 
-## 4. Menu Design Patterns
+## 3. APG Menu Design Patterns
 
 ### History of menu design patterns
 
@@ -52,7 +52,9 @@
 
 ### The Disclosure pattern
 
-## 5. Disclosure Navigation Menus
+## 4. APG Disclosure Navigation Menu
+
+* Detailed look at the APG Example Disclosure Navigation Menu
 
 ### Inferring the composite design pattern from the example
 
