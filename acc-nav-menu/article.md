@@ -69,13 +69,33 @@ It is important to note that while this article uses these terms as they are def
 
 ## 2. Menu Behaviors and User Experience
 
+### Keyboard-only users
+
+### Pointing device users
+
+### Achieving Parity
+
 ## 3. APG Menu Design Patterns
+
+### History of menu design patterns
+
+### Menu or Menubar pattern
+
+### Widgets vs. interactive elements
+
+### The Disclosure pattern
 
 ## 4. APG Disclosure Navigation Menu
 
 For website navigation menus, the disclosure navigation menu pattern provides what keyboard-only users expect: Tabbing through menu lists and pressing Enter or Spacebar to activate a menu item (i.e., either a menu button that expands or collapses a submenu, or a menu item link that takes you to another page).
 
 The key concepts for this pattern are ‘toggling’ and 'tabbing': menu buttons toggle the visibility of their submenus, and the primary keyboard interaction for the traversal of menus and submenus is tabbing.
+
+### Inferring the composite design pattern from the example
+
+### Keyboard enhancements
+
+### Working example
 
 ## Conclusions
 
