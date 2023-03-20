@@ -10,10 +10,6 @@ Furthermore, this article is an attempt to answer the question: “What design p
 
 ----------------------------------------------------------------
 
-This article will explain how to ‘achieve parity’ by utilizing accessible design patterns in building navigation menus, which will result in user experiences that are much more nearly the same for all users, regardless of the physical means of interaction being employed.
-
-It will also delve into the confusing mixture of advice on how navigation menus should behave, much of which is implicit by nature of the design patterns that are in common usage. Most importantly, this article will argue that the most accessible design pattern on which to base navigation menus is the Disclosure pattern and the Example Disclosure Navigation Menu, both of which are described in detail in the ARIA Authoring Practices Guide.
-
 Argue: That 'achieving parity' among the various user experiences is a goal that increases the overall level of accessibility for all users.
 
 Explain: How to use the APG for building navigation menus; how to understand which APG design patterns to use and which to ignore; how to go beyond the APG Example Disclosure Navigation Menu to build real world menus with nested submenus to arbitrary depths.

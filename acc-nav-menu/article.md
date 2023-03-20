@@ -16,6 +16,8 @@ This article will take you, step-by-step, through the Example Disclosure Navigat
 
 It will also delve into the confusing mixture of advice on how navigation menus should behave, much of which is implicit by nature of the design patterns that are in common usage. Most importantly, this article will argue that the most accessible design pattern on which to base navigation menus is the Disclosure pattern and the Example Disclosure Navigation Menu, both of which are described in detail in the ARIA Authoring Practices Guide.
 
+By utilizing accessible design patterns in building navigation menus, the larger goal of ‘achieving parity’ among the user experiences of different types of users can be reached, regardless of the physical means of interaction being employed.
+
 ### Intended Audience
 
 This article is intended for web developers and designers who are accessibility-minded. It assumes that you have experience in at least one of the following two areas:
